@@ -1,6 +1,5 @@
-# rockPaper
+# rockPaperScissors
 
-# rockPaperScissorsServer
 Rock Paper and Scissors application contains a Local Server 8000, with the JavaScript written between the script tags on the index.html.
 
 # How It's Made:
